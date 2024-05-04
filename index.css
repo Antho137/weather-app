@@ -6,7 +6,7 @@ body {
     align-items: center;
     margin: 0 auto;
     font-family: Arial, Helvetica, sans-serif;
-    background-image: url(background.avif);
+    background-image: url(images/background.avif);
     background-size: cover;
     background-repeat: no-repeat;
 }
